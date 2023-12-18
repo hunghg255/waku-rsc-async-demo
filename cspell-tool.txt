@@ -1,0 +1,6 @@
+waku
+hono
+Waku
+WAKU
+nodenext
+biomejs
